@@ -4,6 +4,8 @@ This is a really rough draft, just begin the conversation rather than a document
 
 ## Introduction
 
+
+
 ## Basic code examples
 
 Rather than writing many words, have some code examples that demonstrate package ideas and uses.
@@ -176,7 +178,7 @@ One limitation in PHP currently is that one version of the a library will clash 
 That isn't too bad for small applications, but gets annoying where multiple of your dependencies use the same library and for various reasons one of them might have a non-compatible verison range requirement with another one.
 
 
-It would be possible to have some shenanigans where *magic* happens on the fly to rename the classes to work around this.
+It would be possible to have some shenanigans where *vast quantities of magic* happens on the fly to rename the classes to work around this.
 
 
 
