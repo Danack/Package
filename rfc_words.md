@@ -4,7 +4,9 @@ This is a really rough draft, just begin the conversation rather than a document
 
 ## Introduction
 
+Currently the way that libraries are used in PHP just isn't as nice as in JavaScript. There's a couple of overlapping problems, such as only one version of a library being installable at once, having to pull in functions requires a giant list of use statements, and that PECL is a massive impediment.
 
+Being able to declare that all files that are part of a package, should have a particular set of functions imported and available in all of those files, would make writing code quite a bit easier. probably.
 
 ## Basic code examples
 
